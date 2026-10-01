@@ -1,59 +1,48 @@
-Excel Sales Analysis Dashboard
+# Excel Sales Analysis Dashboard
 
-📊 Project Overview
+## 📊 Project Overview
 
-This project is an end-to-end sales data analysis project created using Microsoft Excel.
+An end-to-end Sales Data Analysis and Dashboard project created using Microsoft Excel.
 
-The project focuses on transforming raw sales data into meaningful insights using Excel data analysis, Pivot Tables, charts, and an interactive dashboard.
+This project analyzes sales data and presents useful insights using Excel formulas, Pivot Tables, charts, and a dashboard.
 
-🎯 Objectives
+## 🛠️ Tools Used
 
-* Analyze sales performance
-* Understand sales by executive
-* Calculate total sales
-* Summarize data using Pivot Tables
-* Create charts for better visualization
-* Build a professional Excel dashboard
+- Microsoft Excel
+- Excel Formulas
+- Pivot Tables
+- Pivot Charts
+- Data Analysis
+- Data Visualization
 
-🛠️ Tools Used
+## 📸 Project Screenshots
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Excel Formulas
-* Data Analysis
-* Dashboard & Data Visualization
+### Dashboard
 
-📁 Project Files
+![Dashboard](01-dashboard.png)
 
-* Excel-End-to-End-Data-Analysis-Project.xlsm – Complete Excel project
-* 01-dashboard.png – Sales dashboard
-* 02-raw-data.png – Raw sales data
-* 03-pivot-analysis.png – Pivot Table analysis
-* 04-charts.png – Sales charts and visualizations
+### Raw Data
 
-📈 Key Analysis
+![Raw Data](02-raw-data.png)
 
-The project includes analysis of:
+### Pivot Table Analysis
 
-* Sales performance by Sales Executive
-* Total Sales
-* Sales summaries using Pivot Tables
-* Data visualization using charts
-* Dashboard-based sales insights
+![Pivot Table Analysis](03-pivot-analysis.png)
 
-🖼️ Project Preview
+### Sales Charts
 
-Dashboard
+![Sales Charts](04-charts.png)
 
-Raw Data
+## 📈 Analysis Performed
 
-Pivot Table Analysis
+- Sales performance by Sales Executive
+- Total Sales analysis
+- Pivot Table analysis
+- Sales visualization using charts
+- Dashboard creation
 
-Charts
-## Author
-Jasmitha.N
+## 🎯 Project Objective
 
-💡 Conclusion
+To transform raw sales data into meaningful analysis and visual insights using Microsoft Excel.
 
-This project demonstrates how Microsoft Excel can be used to organize, analyze, summarize, and visualize sales data to support data-driven decision making.
+
