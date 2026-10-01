@@ -19,19 +19,19 @@ This project analyzes sales data and presents useful insights using Excel formul
 
 ### Dashboard
 
-![Dashboard](01-dashboard.png)
+![Dashboard](01-dashboard.png.jpeg)
 
 ### Raw Data
 
-![Raw Data](02-raw-data.png)
+![Raw Data](02-raw-data.png.jpeg)
 
 ### Pivot Table Analysis
 
-![Pivot Table Analysis](03-pivot-analysis.png)
+![Pivot Table Analysis](03-pivot-analysis.png.jpeg)
 
 ### Sales Charts
 
-![Sales Charts](04-charts.png)
+![Sales Charts](04-charts.png.jpeg)
 
 ## 📈 Analysis Performed
 
@@ -41,6 +41,8 @@ This project analyzes sales data and presents useful insights using Excel formul
 - Sales visualization using charts
 - Dashboard creation
 
+### Author
+Jasmitha.N
 ## 🎯 Project Objective
 
 To transform raw sales data into meaningful analysis and visual insights using Microsoft Excel.
