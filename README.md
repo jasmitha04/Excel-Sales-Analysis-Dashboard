@@ -19,7 +19,7 @@ This project analyzes sales data and presents useful insights using Excel formul
 
 ### Dashboard
 
-![Dashboard](01-dashboard.png.jpeg)
+![Dashboard](01-Dashboard.png.jpeg)
 
 ### Raw Data
 
